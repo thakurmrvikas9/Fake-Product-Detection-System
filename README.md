@@ -140,11 +140,11 @@ npm run dev
 
 ## 📬 Contact  
 
-💻 **Developed by [Manish Patel](https://github.com/its-maneeshk)**  
+💻 **Developed by [Vikash Thakur](https://github.com/thakurmrvikas9)**  
 
-📧 **Email:** [maneeshkurmii@gmail.com](mailto:maneeshkurmii@gmail.com)  
-🔗 **LinkedIn:** [itsmaneeshk](https://www.linkedin.com/in/itsmaneeshk/)  
-📷 **Instagram:** [its_maneeshk_](https://www.instagram.com/its_maneeshk_/)  
+📧 **Email:** [thakurmrvikas@gmail.com](mailto:thakurmrvikas@gmail.com)  
+🔗 **LinkedIn:** [Vikash Thakur](https://www.linkedin.com/in/vikash-thakur-27p02/)  
+📷 **Instagram:** [_thakur_vikas16](https://www.instagram.com/_thakur_vikas16/)  
 
 ---
 
@@ -160,4 +160,4 @@ npm run dev
 
 ---
 
-🔹 **Follow my work on** [GitHub](https://github.com/its-maneeshk) & let's build something amazing together! 🚀
+🔹 **Follow my work on** [GitHub](https://github.com/thakurmrvikas9) & let's build something amazing together! 🚀
